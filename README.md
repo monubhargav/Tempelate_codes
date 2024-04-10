@@ -1,2 +1,3 @@
 # Tempelate_codes
-Most of the cp required templates will be available here 
+Most of the Template codes required in cp will be available here 
+
