@@ -1,3 +1,3 @@
 # Tempelate_codes
-Most of the Template codes required in cp will be available here 
-
+Most of the template codes required in competitive programming will be available here.
+This repository is under construction, so you can add code if you want to contribute certain implementations of data structures.
