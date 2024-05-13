@@ -75,8 +75,8 @@ int main()
     t1->insert("her");
     t1->insert("harsh");
     t1->insert("hero");
-    cout << t1->search("her") << endl;
-    cout << t1->startsWith("he") << endl;
-    cout << t1->startsWith("haro") << endl;
+    cout << t1->search("her") << endl;    // True
+    cout << t1->startsWith("he") << endl; // True
+    cout << t1->startsWith("haro") << endl;  // False
     return 0;
 }
